@@ -2,8 +2,9 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=044400&height=200&text=Seohee%20Yoon%20🐢&fontSize=50&fontColor=e5ece5&fontAlignY=40" />
 
-  ### ⚒️ Stack ⚒️
-  #### 💡 I used at least once 
+  #### Slowly and Steadily .. 🐢
+  ## ⚒️ Stack ⚒️
+  ### 💡 I used at least once 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -15,7 +16,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br/>
  
-#### 🌱 Learning
+### 🌱 Learning
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
