@@ -1,8 +1,6 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=044400&height=200&text=Seohee%20Yoon%20🐢&fontSize=50&fontColor=e5ece5&fontAlignY=40" />
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=seohee0925)](https://solved.ac/seohee0925)
   #### Slowly and Steadily .. 🐢
   ## ⚒️ Stack ⚒️
   ### 💡 I used at least once 
