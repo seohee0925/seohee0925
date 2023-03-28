@@ -1,6 +1,7 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=044400&height=200&text=Seohee%20Yoon%20🐢&fontSize=50&fontColor=e5ece5&fontAlignY=40" />
+  
   #### Slowly and Steadily .. 🐢
   ## ⚒️ Stack ⚒️
   ### 💡 I used at least once 
