@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=044400&height=200&text=Seohee%20Yoon%20🐢&fontSize=50&fontColor=e5ece5&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=006600&height=200&text=Hello%20I'm%20SeoHee%20🐢&fontSize=40&fontColor=e5ece5&rotate=14&fontAlignY=30&fontAlign=70" />
   
   #### Slowly and Steadily .. 🐢
   ## ⚒️ Stack ⚒️
@@ -29,5 +28,4 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohee0925&show_icons=true&theme=merko)
   <br/>
   <a href="https://github.com/seohee0925/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohee0925&layout=compact&theme=merko&hide_border=true" /></a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=044400&height=150&section=footer&fontSize=90" />
 </div>
