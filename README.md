@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=006600&height=200&text=Hello%20I'm%20SeoHee%20🐢&fontSize=40&fontColor=e5ece5&rotate=14&fontAlignY=30&fontAlign=70" />
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{seohee0925}"/>
+</a>
   
   #### Slowly and Steadily .. 🐢
   ## ⚒️ Stack ⚒️
@@ -9,11 +12,6 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <br/>
  
 ### 🌱 Learning
