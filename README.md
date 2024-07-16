@@ -3,6 +3,39 @@
 </div>
 
 ## Hi, I'm seohee! 🤭
+### Awards 🥇
+<table>
+  <thead>
+    <tr>
+      <th>대회명</th>
+      <th>날짜</th>
+      <th>수상</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>신한은행빅데이터해커톤 대회</td>
+      <td>2022.09~2022.10</td>
+      <td>우수상</td>
+    </tr>
+    <tr>
+      <td>여기톤</td>
+      <td>2023.06~2023.07</td>
+      <td>3위 (더벤티상)</td>
+    </tr>
+    <tr>
+      <td>코코톤</td>
+      <td>2023.12.26~2023.12.27</td>
+      <td>장려상</td>
+    </tr>
+    <tr>
+      <td>캐릭터톤</td>
+      <td>2024.05.12</td>
+      <td>대상</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Experience
   <table>
@@ -30,12 +63,12 @@
         <td>2023.05 ~ 2024.04</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/Likelion-at-SMWU-12th">멋쟁이사자처럼 12기 대표</a></td>
-        <td>2024.03 ~ present</td>
+        <td>DACOS (소프트웨어학부 데이터 분석 학회) 부원</td>
+        <td>2023.09 ~ 2024.08</td>
       </tr>
       <tr>
-        <td>DACOS (소프트웨어학부 데이터 분석 학회) 부원</td>
-        <td>2023.09 ~ present</td>
+        <td><a href="https://github.com/Likelion-at-SMWU-12th">멋쟁이사자처럼 12기 대표</a></td>
+        <td>2024.03 ~ present</td>
       </tr>
       <tr>
         <td><a href="https://github.com/NOW-SOPT-ANDROID">SOPT 34기 Android</td>
@@ -46,3 +79,6 @@
 
 
 ### Project
+<table>
+  
+</table>
