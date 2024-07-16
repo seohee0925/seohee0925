@@ -51,7 +51,7 @@
         <td>2021.03 ~ 2022.03</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/APPS-sookmyung">APPS (소프트웨어학부 웹/앱 개발 학회) 11기 수료 부원</a></td>
+        <td><a href="https://github.com/APPS-sookmyung">APPS (소프트웨어학부 웹/앱 개발 학회) 10, 11기 수료 부원</a></td>
         <td>2022.03 ~ 2024.02</td>
       </tr>
       <tr>
