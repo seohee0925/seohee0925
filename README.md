@@ -38,7 +38,7 @@
         <td>2023.09 ~ present</td>
       </tr>
       <tr>
-        <td>SOPT 34기 Android</td>
+        <td><a href="https://github.com/NOW-SOPT-ANDROID">SOPT 34기 Android</td>
         <td>2023.03 ~ present</td>
       </tr>
     </tbody>
