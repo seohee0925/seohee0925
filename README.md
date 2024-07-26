@@ -19,7 +19,7 @@
       <td>우수상</td>
     </tr>
     <tr>
-      <td>여기톤</td>
+      <td><a href="https://github.com/2023-HERETHON/2023-Herethon-7">여기톤(여대연합해커톤)</a></td>
       <td>2023.06~2023.07</td>
       <td>3위 (더벤티상)</td>
     </tr>
@@ -52,32 +52,8 @@
     </thead>
     <tbody>
       <tr>
-        <td>제 5대 기초공학부 학생회장</td>
-        <td>2021.03 ~ 2022.03</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/APPS-sookmyung">APPS (소프트웨어학부 웹/앱 개발 학회) 10, 11기 수료 부원</a></td>
-        <td>2022.03 ~ 2024.02</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Likelion-at-SMWU-11th">멋쟁이사자처럼 11기 수료</a></td>
-        <td>2023.03 ~ 2024.02</td>
-      </tr>
-      <tr>
-        <td>그래픽스/정보 시각화 연구</a></td>
-        <td>2023.05 ~ 2024.04</td>
-      </tr>
-      <tr>
-        <td>DACOS (소프트웨어학부 데이터 분석 학회) 부원</td>
-        <td>2023.09 ~ 2024.08</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Likelion-at-SMWU-12th">멋쟁이사자처럼 12기 대표</a></td>
-        <td>2024.03 ~ present</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/NOW-SOPT-ANDROID">SOPT 34기 Android</td>
-        <td>2023.03 ~ present</td>
+        <td>제 5리</td>
+        <td>2024.07 ~ present</td>
       </tr>
     </tbody>
   </table>
