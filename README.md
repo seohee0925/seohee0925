@@ -33,6 +33,11 @@
       <td>2024.05.12</td>
       <td>대상</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Team-Recordy/Recordy-Android">NOW SOPT APPJAM</a></td>
+      <td>2024.06.15~2024.07.20</td>
+      <td>최우수상</td>
+    </tr>
   </tbody>
 </table>
 
@@ -79,9 +84,8 @@
 
 
 ### Project
-<table>
-  
-</table>
+
+### Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohee0925&show_icons=true&theme=merko)
   <br/>
