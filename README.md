@@ -1,7 +1,9 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/8ed19f25-1e64-4e93-90ae-fb87efc93c04" />
 </div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohee0925&count_bg=%238CB7FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+    
 ## Hi, I'm seohee! 🤭
 ### Awards 🥇
 <table>
@@ -77,7 +79,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/Likelion-at-SMWU-12th">멋쟁이사자처럼 12기 대표</a></td>
-        <td>2024.03 ~ present</td>
+        <td>2024.03 ~ 2024.11</td>
       </tr>
       <tr>
         <td>BITAmin 대학생 연합 빅데이터 동아리</td>
