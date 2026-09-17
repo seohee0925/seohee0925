@@ -294,19 +294,3 @@ SOPT APPJAM에서 Android 개발자로 참여해
 `Git` `GitHub` `Linux`
 
 ---
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=seohee0925&show_icons=true&hide_border=true&theme=transparent"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohee0925&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  />
-
-</div>
